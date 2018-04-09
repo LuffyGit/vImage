@@ -3,7 +3,7 @@
 // vImage
 //
 //  A PHP GD toolkit reordered  from "SimpleImage"->
-//	Developed and maintained by Vanch
+//	Developed and maintained by Vanch <https://github.com/LuffyGit>.
 //  
 //===========================================================================
 //  SimpleImage

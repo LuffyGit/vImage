@@ -1,6 +1,6 @@
 {
-  "name": "claviska/simpleimage",
-  "description": "A PHP class that makes working with images as simple as possible.",
+  "name": "LuffyGit/vImage",
+  "description": "This is a php GD toolkit with namecard QRCode, watermark, verifycode demos.",
   "license": "MIT",
   "require": {
     "php": ">=5.6.0",
