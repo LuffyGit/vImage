@@ -1,5 +1,5 @@
 {
-  "name": "LuffyGit/vImage",
+  "name": "luffygit/vimage",
   "description": "This is a php GD toolkit with namecard QRCode, watermark, verifycode demos.",
   "license": "MIT",
   "require": {
@@ -9,14 +9,14 @@
   },
   "authors": [
     {
-      "name": "Cory LaViska",
-      "homepage": "http://www.abeautifulsite.net/",
+      "name": "LuffyGit",
+      "homepage": "https://github.com/LuffyGit/vImage",
       "role": "Developer"
     }
   ],
   "autoload": {
     "psr-0": {
-      "claviska": "src/"
+      "luffygit": "luffygit/"
     }
   }
 }
